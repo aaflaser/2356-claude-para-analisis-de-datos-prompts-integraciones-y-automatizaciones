@@ -1,0 +1,15 @@
+MENSAJES PARA SIMULAR CONVERSACIÓN EN TEAMS
+
+Canal: #analisis-comercial
+
+[09:12] Camila - Marketing:
+Equipo, la directiva pidió una lectura sobre la Semana del Consumidor. ¿Podemos medir si trajo una ganancia real o solo un mayor descuento?
+
+[09:18] Lucas - Operaciones:
+De nuestra parte, estamos preocupados por Smartwatch Move y Aspirador Compact. El stock quedó ajustado después de la campaña.
+
+[09:26] Rafael - Datos:
+Voy a consolidar ventas, margen, stock y calendario promocional. También quiero verificar si hubo impacto en devoluciones y plazo de entrega.
+
+[09:41] Camila - Marketing:
+Perfecto. Si es posible, sería bueno separar por región y categoría. La lectura nacional quedó muy genérica.

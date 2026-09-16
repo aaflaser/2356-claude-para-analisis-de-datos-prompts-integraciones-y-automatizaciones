@@ -1,0 +1,26 @@
+MODELOS DE CORREO ELECTRÓNICO PARA GMAIL O OUTLOOK
+
+Correo 1
+Asunto: Alerta de rotura - productos con rotación acelerada
+De: operacoes@novametrica.com
+Para: dados@novametrica.com
+Cuerpo:
+Equipo, identificamos riesgo de rotura para Smartwatch Move, Aspirador Compact y Chaqueta Cortaviento. Estos artículos presentaron aumento de demanda durante las últimas campañas y el stock actual requiere seguimiento. Necesitamos cruzar ventas recientes, stock disponible y calendario promocional antes de definir nuevas acciones.
+
+---
+
+Correo 2
+Asunto: Evaluación preliminar de las campañas de marzo
+De: marketing@novametrica.com
+Para: dados@novametrica.com
+Cuerpo:
+La Semana del Consumidor trajo un pico de pedidos en algunas categorías, especialmente electrónicos y hogar. Aún no sabemos si la expansión de ingresos compensó la reducción de margen. La directiva quiere un análisis que compare volumen, descuento y retorno comercial.
+
+---
+
+Correo 3
+Asunto: Preguntas para la reunión ejecutiva
+De: diretoria@novametrica.com
+Para: dados@novametrica.com
+Cuerpo:
+Para la próxima reunión, necesito una visión objetiva: categorías prioritarias, campañas que merecen continuidad, riesgos de stock y acciones recomendadas. El material debe ser claro para el liderazgo y no solo técnico.
